@@ -1,5 +1,8 @@
 {
     "name": "chrischerrett/imagecache",
+    "replace": {
+        "intervention/imagecache":"2.6.0"
+    }
     "description": "Caching extension for the Intervention Image Class",
     "homepage": "https://image.intervention.io",
     "keywords": [
